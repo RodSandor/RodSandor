@@ -3,9 +3,9 @@
 </p>
 
 ## Hello! I'm Rodrigo.
-#Welcome!!
+# Welcome!!
 
-*I am a Front-end programmer. I have a passion for user-friendly enviroments. I love to find a solution to create something people can work with with little stress!
+* I am a Front-end programmer. I have a passion for user-friendly enviroments. I love to find a solution to create something people can work with with little stress!
 
 
 Things I do:
