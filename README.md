@@ -16,7 +16,7 @@ Things I do:
 
 About me:
 
-- 🌱 I'm currently learning React, NextJS and NestJS. 
+- 🌱 I'm currently working on Angular and React AWESOME projects! 
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
 
